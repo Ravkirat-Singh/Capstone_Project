@@ -2,8 +2,8 @@ FINAL CAPSTONE PROJECT DESCRIPTION
 
 TEAM MEMBERS-
 
-Name-Ashmit Thakur || Uid-23BAI70503
-Name-Jahnvi || Uid-23Bai70330
+Name-Ravkirat Singh || Uid-23BAI70498
+Name-Dhairya Sharma || Uid-23BAI70388
 
 
 Real-Time Feature Flag Management System (MERN + Redis)
